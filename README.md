@@ -25,7 +25,7 @@ function toggleInterface() {
   const element = document.getElementById('ux-widget');
   element.classList.toggle('visible');
   console.log('User interaction: Toggle visibility');
-}
+```
 
 
 ## Numerički popis:
